@@ -4,7 +4,7 @@ hello UJS
 
 # ![image](https://github.com/wuhao4795/firstwork/blob/main/Screenshots/ujs.png)
 
-`<This is a angry cat>` 
+`<This is an angry cat>` 
 
 ![image](https://github.com/wuhao4795/firstwork/blob/main/Screenshots/angry%20cat.gif)
 
